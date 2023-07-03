@@ -94,8 +94,9 @@ a > :not(.container.title,.cssbox_full) {
 }
 
 .central {
-    width: 60%;
+    width: 80%;
     margin: 0 auto;
+    padding: 15px;
 }
 
 .container {
