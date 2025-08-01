@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/cssbox.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Mono&family=Fira+Sans:ital,wght@0,300;0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<title>Cover image featured in Inorganic Chemistry - Amber Lim</title>
+<link rel="canonical" href="https://xamberlim.github.io/posts/2023-03-20-inorg-chem-cover/" />
+
+<meta property="og:site_name" content="Amber Lim" />
+<meta property="og:title" content="Cover image featured in Inorganic Chemistry - Amber Lim" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://xamberlim.github.io/posts/2023-03-20-inorg-chem-cover/" />
+
+
+
+
+</head>
+<body>
+    <div class="nav">
+        <a class="nav-title" href="/">xamberlim</a>
+        <ul>
+        <li class="nav-item"><a href="/posts">Blog</a></li>
+        <li class="nav-item"><a href="/publications">Publications</a></li>
+        <li class="nav-item"><a href="/art">Art</a></li>
+        <li class="nav-item"><a href="/about">About</a></li>
+        </ul>
+    </div>
+    <div class="central">
+        
+    <div class="container">
+    <h1>Cover image featured in <i>Inorganic Chemistry</i></h1>
+    <p class="container-info">Mar 20, 2023</p>
+    <p>The cover image I made for my 1st first-author manuscript was featured in <a href="https://pubs.acs.org/toc/inocaj/62/11"><em>Inorganic Chemistry</em></a>!</p>
+<h2>You need to be <em>committed</em> to make a nice, 3-D cover.</h2>
+<p>It took me an entire week to make the cover. I didn't work on manuscript revisions, I didn't work on other research, <em>I concentrated solely on the figure-making process</em>. Was it worth it? For me, yes, but I rather like making figures (despite the constant complaining). I can't imagine what a headache this would be for someone with less interest in learning new image-making software.</p>
+<p>If you thought doing revisions for paper figures was tough, try doing revisions for 3-D figures. I think I was lucky this time, as the final product didn't deviate much from the concept sketch. However, changing colors, textures, and lighting became increasingly difficult, as my aging 8 year old laptop began to struggle with rendering. Blender did crash multiple times. Go find a desktop computer with a dedicated graphics card.</p>
+<h2>Workflow</h2>
+<h3>Conception</h3>
+<p>I based the concept after the energy surface in the conclusions section of my paper.</p>
+<p><img src="/img/EnergyLandscape.png" alt="Energy landscape of the REAl3 series">
+<em>Energy landscape of the REAl<sub>3</sub> series</em></p>
+<p><img src="/img/20221101_105513.jpg" alt="Concept Sketch">
+<em>Concept Sketch</em></p>
+<p>Thumbnailing (a skill I picked up from my hobby of drawing comics during high school and undergrad) is a useful skill that everyone should pick up. It doesn't require art skill. If you can draw boxes and circles, you can thumbnail. As we're working on a scientific figure (as opposed to storyboards or comic pages), we have the leeway to use annotations to make up for any lack of drawing skill. Drafting a smaller, simplified version of your idea can help you eliminate what doesn't work and refine what does.</p>
+<p>You can see above that my first thumbnail (highlighted in blue and orange) is quite messy, but it helped me find a better angle for the surface in my second thumbnail.</p>
+<h2>Rendering with Blender</h2>
+<p>To make the 3-D figure, I wanted to use Blender for its exceptional ability to add textures and render lighting. Some of crystal structures (and the foreground CP scheme and DFT-raMO lobes) were generated in MATLAB using our group's figure making utility. To import the 3-D MATLAB objects into Blender, I had to modify <a href="https://www.mathworks.com/matlabcentral/fileexchange/20922-stlwrite-write-ascii-or-binary-stl-files">stlwrite</a> and write a wrapper script to export individual surfaces in one .stl file. Other crystals were imported from CIFs using a tutorial by <a href="https://www.youtube.com/@CGFigures">CGFigures</a>, whose channel gave me some inspiration.</p>
+<p>The energy surface was generated using Blender XYZ surface function. Unfortunately, after typing in the function for the surface, Blender transforms the surface into a static object, so I had to get the surface right before I could cut the surface into slices.</p>
+<p>Blender has a steep learning curve, so it took me a whole week wrestling with the program. For almost every task, like how to resize, or fuse and cut solids, or modify textures took <em>a lot</em> of googling and trial and error...</p>
+<h2>Post-processing with Photoshop</h2>
+<p><img src="/img/Cover_prephotoshop.png" alt="Before Photoshop">
+<em>Before Photoshop</em></p>
+<p>Lastly, after getting the figure as I (and my advisor) liked, I rasterized and imported the .png file into Photoshop, where I added text, the starry background (thank you, color range selector and layer masks!), and made a mockup with placement of the journal's title. This part was much quicker for me, as I'm relatively proficient with Photoshop.</p>
+<h2>Concluding thoughts</h2>
+<p>I learned a lot through making this cover, and I have a renewed appreciation for 3-D artists and animators. They should certainly get paid more, because this was no simple task, and I'm working with relatively simple geometrical shapes, versus rigged models! Would I do it again? Certainly! Though I think with the amount of effort it takes, I can't imagine doing it for every paper. The next cover with 3-D graphics should be for a manuscript with maxmimum impact!</p>
+
+    
+        <ul class="container-info"><li class="container-tags"><a href="/tag/blog">blog</a></li><li class="container-tags"><a href="/tag/publications">publications</a></li></ul>
+    
+    </div>
+
+    </div>
+</body>
+</html>
