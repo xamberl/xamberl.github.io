@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Amber Lim</title>
+  <subtitle>Research computing facilitator, theoretical solid-state chemist, and artist.</subtitle>
+  <link href="https://xamberl.github.io/feed.xml" rel="self"/>
+  <link href=""/>
+  <updated>2025-02-01T00:00:00Z</updated>
+  <id></id>
+  <author>
+    <name></name>
+    <email></email>
+  </author>
+    
+    <entry>
+      <title>Hourly Comic Day 2025</title>
+      <link href="/posts/2025-02-01-hourly-comic/"/>
+      <updated>2025-02-01T00:00:00Z</updated>
+      <id>/posts/2025-02-01-hourly-comic/</id>
+      <content type="html">&lt;p&gt;&lt;img src=&quot;/img/20250201_HourlyComic1.png&quot; alt=&quot;Hourly Comic Day 2025&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/20250201_HourlyComic2.png&quot; alt=&quot;Hourly Comic Day 2025&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/20250201_HourlyComic3.png&quot; alt=&quot;Hourly Comic Day 2025&quot; /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;I made this comic for Hourly Comic Day. Each panel is a snapshot of one hour of my day on February 1. It&#39;s a bit of the post-PhD blues.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>New article in &lt;i&gt;Inorganic Chemistry&lt;/i&gt; - The 18-&lt;i&gt;n&lt;/i&gt;+&lt;i&gt;m&lt;/i&gt; Isomerism of IrIn&lt;sub&gt;3&lt;/sub&gt;</title>
+      <link href="/posts/2023-07-02-IrIn3/"/>
+      <updated>2023-07-02T00:00:00Z</updated>
+      <id>/posts/2023-07-02-IrIn3/</id>
+      <content type="html">&lt;p&gt;My paper on the polymorphism of IrIn&lt;sub&gt;3&lt;/sub&gt; was published recently in &lt;em&gt;Inorganic Chemistry&lt;/em&gt;. Check out &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acs.inorgchem.3c01496&quot;&gt;&amp;quot;Entropic Control of Bonding, Guided by Chemical Pressure: Phase Transitions and 18-&lt;em&gt;n&lt;/em&gt;+&lt;em&gt;m&lt;/em&gt; Isomerism of IrIn&lt;sub&gt;3&lt;/sub&gt;&amp;quot;&lt;/a&gt;. This paper carries on the &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/jacs.9b10473&quot;&gt;&lt;em&gt;Frustrated and Allowed Structural Transitions (FAST)&lt;/em&gt;&lt;/a&gt; concept, in which structural relationships investigated from an electronic and atomic packing perspective. In my &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acs.inorgchem.2c03393&quot;&gt;previous article&lt;/a&gt; about a series of superstructures in the &lt;em&gt;RE&lt;/em&gt;Al&lt;sub&gt;3&lt;/sub&gt; system, the electronic and atomic packing are in conflict. In this case, atomic packing prevails, and ultimately shapes the electronics of both the high and low temperature polymorphs.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/2023_IrIn3.jpg&quot; alt=&quot;TOC cover for IrIn3&quot; /&gt;
+&lt;em&gt;TOC cover for IrIn&lt;sub&gt;3&lt;/sub&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The most fascinating part of the story was the unexpected introduction of vibrational entropy. In hindsight, it makes a lot of sense, however, when I first began on this project, I was focused on seeking out a story similar to &lt;em&gt;RE&lt;/em&gt;Al&lt;sub&gt;3&lt;/sub&gt;. It took me quite a while (and a lot of headscratching) before I noticed the &lt;a href=&quot;http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00917&quot;&gt;chemical pressure quadrupoles&lt;/a&gt; that made me even consider pursuing phonon calculations. These were not trivial calculations (cluster interruptions and user errors prolonged these months-long calculations even longer), but it was gratifying to tie these concepts into something tangible and close to literature: the phase transition temperature.&lt;/p&gt;
+&lt;p&gt;Overall, this project was a bit of a ride. I&#39;m excited about the work we did, and the future work we could do with phonons. Who knows what&#39;s next!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Read the paper here: &lt;a href=&quot;https://pubs.acs.org/doi/10.1021/acs.inorgchem.3c01496&quot;&gt;https://pubs.acs.org/doi/10.1021/acs.inorgchem.3c01496&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Cover image featured in &lt;i&gt;Inorganic Chemistry&lt;/i&gt;</title>
+      <link href="/posts/2023-03-20-inorg-chem-cover/"/>
+      <updated>2023-03-20T00:00:00Z</updated>
+      <id>/posts/2023-03-20-inorg-chem-cover/</id>
+      <content type="html">&lt;p&gt;The cover image I made for my 1st first-author manuscript was featured in &lt;a href=&quot;https://pubs.acs.org/toc/inocaj/62/11&quot;&gt;&lt;em&gt;Inorganic Chemistry&lt;/em&gt;&lt;/a&gt;!&lt;/p&gt;
+&lt;h2&gt;You need to be &lt;em&gt;committed&lt;/em&gt; to make a nice, 3-D cover.&lt;/h2&gt;
+&lt;p&gt;It took me an entire week to make the cover. I didn&#39;t work on manuscript revisions, I didn&#39;t work on other research, &lt;em&gt;I concentrated solely on the figure-making process&lt;/em&gt;. Was it worth it? For me, yes, but I rather like making figures (despite the constant complaining). I can&#39;t imagine what a headache this would be for someone with less interest in learning new image-making software.&lt;/p&gt;
+&lt;p&gt;If you thought doing revisions for paper figures was tough, try doing revisions for 3-D figures. I think I was lucky this time, as the final product didn&#39;t deviate much from the concept sketch. However, changing colors, textures, and lighting became increasingly difficult, as my aging 8 year old laptop began to struggle with rendering. Blender did crash multiple times. Go find a desktop computer with a dedicated graphics card.&lt;/p&gt;
+&lt;h2&gt;Workflow&lt;/h2&gt;
+&lt;h3&gt;Conception&lt;/h3&gt;
+&lt;p&gt;I based the concept after the energy surface in the conclusions section of my paper.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/EnergyLandscape.png&quot; alt=&quot;Energy landscape of the REAl3 series&quot; /&gt;
+&lt;em&gt;Energy landscape of the REAl&lt;sub&gt;3&lt;/sub&gt; series&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/20221101_105513.jpg&quot; alt=&quot;Concept Sketch&quot; /&gt;
+&lt;em&gt;Concept Sketch&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Thumbnailing (a skill I picked up from my hobby of drawing comics during high school and undergrad) is a useful skill that everyone should pick up. It doesn&#39;t require art skill. If you can draw boxes and circles, you can thumbnail. As we&#39;re working on a scientific figure (as opposed to storyboards or comic pages), we have the leeway to use annotations to make up for any lack of drawing skill. Drafting a smaller, simplified version of your idea can help you eliminate what doesn&#39;t work and refine what does.&lt;/p&gt;
+&lt;p&gt;You can see above that my first thumbnail (highlighted in blue and orange) is quite messy, but it helped me find a better angle for the surface in my second thumbnail.&lt;/p&gt;
+&lt;h2&gt;Rendering with Blender&lt;/h2&gt;
+&lt;p&gt;To make the 3-D figure, I wanted to use Blender for its exceptional ability to add textures and render lighting. Some of crystal structures (and the foreground CP scheme and DFT-raMO lobes) were generated in MATLAB using our group&#39;s figure making utility. To import the 3-D MATLAB objects into Blender, I had to modify &lt;a href=&quot;https://www.mathworks.com/matlabcentral/fileexchange/20922-stlwrite-write-ascii-or-binary-stl-files&quot;&gt;stlwrite&lt;/a&gt; and write a wrapper script to export individual surfaces in one .stl file. Other crystals were imported from CIFs using a tutorial by &lt;a href=&quot;https://www.youtube.com/@CGFigures&quot;&gt;CGFigures&lt;/a&gt;, whose channel gave me some inspiration.&lt;/p&gt;
+&lt;p&gt;The energy surface was generated using Blender XYZ surface function. Unfortunately, after typing in the function for the surface, Blender transforms the surface into a static object, so I had to get the surface right before I could cut the surface into slices.&lt;/p&gt;
+&lt;p&gt;Blender has a steep learning curve, so it took me a whole week wrestling with the program. For almost every task, like how to resize, or fuse and cut solids, or modify textures took &lt;em&gt;a lot&lt;/em&gt; of googling and trial and error...&lt;/p&gt;
+&lt;h2&gt;Post-processing with Photoshop&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/img/Cover_prephotoshop.png&quot; alt=&quot;Before Photoshop&quot; /&gt;
+&lt;em&gt;Before Photoshop&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Lastly, after getting the figure as I (and my advisor) liked, I rasterized and imported the .png file into Photoshop, where I added text, the starry background (thank you, color range selector and layer masks!), and made a mockup with placement of the journal&#39;s title. This part was much quicker for me, as I&#39;m relatively proficient with Photoshop.&lt;/p&gt;
+&lt;h2&gt;Concluding thoughts&lt;/h2&gt;
+&lt;p&gt;I learned a lot through making this cover, and I have a renewed appreciation for 3-D artists and animators. They should certainly get paid more, because this was no simple task, and I&#39;m working with relatively simple geometrical shapes, versus rigged models! Would I do it again? Certainly! Though I think with the amount of effort it takes, I can&#39;t imagine doing it for every paper. The next cover with 3-D graphics should be for a manuscript with maxmimum impact!&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Basic Affinity Photo tutorial for preparing scientific figures</title>
+      <link href="/posts/basic-affinity-photo-tutorial/"/>
+      <updated>2023-02-27T00:00:00Z</updated>
+      <id>/posts/basic-affinity-photo-tutorial/</id>
+      <content type="html">&lt;p&gt;Making scientific figures is not an easy process. Unlike digital art, you&#39;re not offered much room for creativity, as it is more important to present the &lt;strong&gt;data&lt;/strong&gt; than to make figures look aesthetically pleasing. Additionally, getting an image-editing software can be an immense pain, as many image-editing software suites now are pushing some extravagantly-priced subscription models.&lt;/p&gt;
+&lt;p&gt;This was certainly the case for our lab. We tried to obtain the Adobe Creative Cloud suite, as it was offered to faculty and staff for free through our university, but surprise, surprise! Graduate students do not count as research staff. &lt;strong&gt;Classic.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In search for alternatives, I did some research and purchased perpetual licenses for &lt;a href=&quot;https://affinity.serif.com/en-us/photo/&quot;&gt;Affinity Photo 1.0&lt;/a&gt; (As of this post, the latest version is 2.0, which I haven&#39;t tried). This software has great value, despite its hiccups in performance and text, and I would highly recommend it as an alternative to Adobe Photoshop for figure making. Some features are actually &lt;em&gt;better&lt;/em&gt; in my opinion. Affinity Photo draws dashed lines and arrows splendidly, with relatively straightforward options.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/drawing_lines.png&quot; alt=&quot;Affinity&#39;s interface for adjusting the style of line strokes.&quot; /&gt;
+&lt;em&gt;Affinity&#39;s interface for adjusting the style of line strokes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;As I had plenty of experience working with Photoshop and other image/art programs in hobbies as a digital artist, picking up Affinity Photo was relatively simple. However, there is a steep learning curve for using any image-editing software for the first time, so I put together a (silly) workshop for my group members.&lt;/p&gt;
+&lt;p&gt;I&#39;m sharing the basic tutorial here. The tutorial consists of a .zip file, with images to practice with, and a PDF of the slides on that workshop day. I don&#39;t cover everything there is to know about Affinity Photo; just the basics, like selection, layers, colors, lines, and shapes. Some of the skills in there are transferrable to other image-editing programs like GIMP or Photoshop. (Hah!)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;/img/Affinity_Photo_Tutorial.zip&quot;&gt;Affinity_Photo_Tutorial.zip (5.0 MB)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/img/Affinity_Photo_Tutorial.pdf&quot;&gt;Affinity_Photo_Tutorial.pdf (9.3 MB)&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Hope you find the basic tutorial useful! Happy figure-making!&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>18-&lt;i&gt;n&lt;/i&gt; comic</title>
+      <link href="/posts/18-n-comic/"/>
+      <updated>2022-06-10T00:00:00Z</updated>
+      <id>/posts/18-n-comic/</id>
+      <content type="html">&lt;p&gt;&lt;img src=&quot;/img/18-n-comic.png&quot; alt=&quot;Summary of the 18-n rule&quot; /&gt;
+&lt;em&gt;Summary of the 18-n rule.&lt;/em&gt;&lt;/p&gt;
+</content>
+    </entry>
+</feed>
