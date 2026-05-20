@@ -25,25 +25,17 @@
     height: 100%;
     width: 100%;
     background-color: rgba(0,0,0,0.8);
+  
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-image: none !important;
+  
     top: 0;
     left: 0;
     opacity: 0;
     pointer-events: none;
-    cursor: default;
     transition: opacity 0.5s linear;
-  }
-  
-  span.cssbox_full img {
-    position: fixed;
-    margin: 0;
-    padding: 0;
-    max-height: 90%;
-    max-width: 90%;
-    top: 50%;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%);   
-    object-fit: contain;
   }
   
   a.cssbox_close,
@@ -86,10 +78,12 @@
     visibility: visible;
   }
   
-  a:target > img.cssbox_thumb + span.cssbox_full {
+  a:target > span.cssbox_full {
     visibility: visible;
     opacity: 1;
     pointer-events: initial;
+    --darkreader-bgimg--full: var(--full) !important;
+    background: var(--full) center / contain no-repeat rgba(0,0,0,0.8) !important;
   }
   /* This is the end of CSSBox */
   
